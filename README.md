@@ -6,7 +6,7 @@ I build small tools with Claude and other generative AI to solve real problems, 
 
 ## What I'm building
 
-- **[Resume Tailoring Assistant](link-coming-soon)**: Claude-powered tool that tailors a resume to a job description *(in progress)*
+- **[Weekend Table](https://github.com/makrandwagh/weekend-table)**: Weekend restaurant picker with a one-click prompt handoff to Claude · [Live demo](https://makrandwagh.github.io/weekend-table/)*
 
 ## How I work with AI
 
