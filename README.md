@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Makrand 👋
 
-<!--
-**makrandwagh/makrandwagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff Product Manager focused on platform-scale products, seller experience, and applied AI.
 
-Here are some ideas to get you started:
+I build small tools with Claude and other generative AI to solve real problems, and I use them to sharpen how I think about AI product development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## What I'm building
+
+- **[Resume Tailoring Assistant](link-coming-soon)**: Claude-powered tool that tailors a resume to a job description *(in progress)*
+
+## How I work with AI
+
+- Start with customer and the problem - prototype and iterate to improve on opportunities
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/makrandwagh/)
 -->
